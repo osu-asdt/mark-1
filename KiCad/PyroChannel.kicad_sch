@@ -1110,7 +1110,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "81dba7f1-cba7-48ec-97f7-c215fe06607f")
 		(property "Reference" "Q3"
 			(at 151.13 92.7099 0)
@@ -1161,7 +1160,7 @@
 			)
 		)
 		(property "LCSC" "C67272"
-			(at 144.78 93.98 0)
+			(at 146.304 93.726 0)
 			(effects
 				(font
 					(size 1.27 1.27)
