@@ -574,6 +574,17 @@
 			)
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/IND_TAIYO_NR3015_TAY.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "S3FH4R2:QFN40P700X700X90-57N"
 		(layer "F.Cu")
@@ -2123,6 +2134,17 @@
 			(uuid "79742619-4ca2-4ca1-ade5-9ab52e722743")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/ESP32-S3FH4R2.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -6027,7 +6049,7 @@
 			(uuid "6ccbfc8a-9971-4058-bcc8-2a6ad7dc17fc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS810.wrl"
+		(model "${KIPRJMOD}/3dmodels/PTS810SJM250SMTR LFS.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6035,7 +6057,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -12009,7 +12031,7 @@
 			(uuid "691c4b70-747b-4c3b-af21-a1fac3d5fc20")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS810.wrl"
+		(model "${KIPRJMOD}/3dmodels/PTS810SJM250SMTR LFS.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12017,7 +12039,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -12806,7 +12828,7 @@
 				)
 			)
 		)
-		(property "Value" "MS560702BA03-50"
+		(property "Value" "e"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13416,6 +13438,17 @@
 			(uuid "1be7edec-0414-48f2-9251-b1cf4b501cb9")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/MS560702BA03-50.STEP"
+			(offset
+				(xyz 0 0 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
@@ -16923,7 +16956,7 @@
 			(uuid "c0f34740-dba7-4105-8223-f7cb64d9239a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/RF_Module.3dshapes/HOPERF_RFM9XW_SMD.wrl"
+		(model "${KIPRJMOD}/3dmodels/RFM95W-915S2.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16931,7 +16964,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -17905,15 +17938,15 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/RF_Antenna.3dshapes/Molex_47948-0001_2.4Ghz.wrl"
+		(model "${KIPRJMOD}/3dmodels/0479480001.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 4)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 180 90)
 			)
 		)
 	)
@@ -21965,7 +21998,7 @@
 			(uuid "d2310ddd-0f0a-47d0-a31f-8607d3143af1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_SAM-M8Q.wrl"
+		(model "${KIPRJMOD}/3dmodels/SAM-M10Q-00B.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21973,7 +22006,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
