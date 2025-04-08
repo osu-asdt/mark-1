@@ -56,12 +56,13 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -116,16 +117,6 @@
 				)
 			)
 			(property "AVAILABILITY" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DESCRIPTION" "Accelerometer, Gyroscope, 6 Axis Sensor I²C, SPI Output"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4265,7 +4256,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d83e8d41-4cb3-484e-8802-a21e965fb2a8")
+			(uuid "d83e8d41-4cb3-484e-8802-a21e965fb2a9")
 		)
 		(instances
 			(project ""
@@ -4397,7 +4388,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f53dd131-4dc0-491f-857b-f19c03ee30ff")
+			(uuid "f53dd131-4dc0-491f-857b-f19c03ee3100")
 		)
 		(instances
 			(project ""

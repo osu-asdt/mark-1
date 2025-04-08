@@ -1290,7 +1290,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7f8dfba-0e14-40de-8057-a5a50ade0f9c")
 		(property "Reference" "R19"
-			(at 160.02 95.2499 0)
+			(at 160.02 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1298,8 +1298,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 160.02 97.7899 0)
+		(property "Value" "5.1k"
+			(at 160.02 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1334,12 +1334,13 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
-			(at 157.48 96.52 0)
+		(property "LCSC" "C25905"
+			(at 160.02 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(pin "2"
